@@ -1,3 +1,5 @@
+> **Merged 2026-08-16** into [structure-function-individuation](https://github.com/aaygan29/structure-function-individuation) as `wiring-not-weights/`, alongside the companion identity/AI-topology results, with a full stress-test rigor pass (corrected statistics, math framework, adversarial review). This repo is preserved read-only for citation continuity; **the merged repo is the current source.**
+
 # neurowire
 
 An in-silico apparatus for a single question: if you copied a brain's wiring (its connectome) perfectly, would you have the person, and if not, what else would you have to store?
